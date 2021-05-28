@@ -3,6 +3,11 @@
 /// @DnDHash : 4BB9A462
 instance_create_layer(0, 0, "Instances", noone);
 
+/// @DnDAction : YoYo Games.Common.Temp_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3F6DB150
+var temp;
+
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 11070D65
