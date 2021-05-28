@@ -13,3 +13,8 @@ image_index = 0;
 /// @DnDVersion : 1
 /// @DnDHash : 53099645
 variable = layer_sequence_create("Assets", 0, 0, noone);
+
+/// @DnDAction : YoYo Games.Instances.Destroy_At_Position
+/// @DnDVersion : 1
+/// @DnDHash : 3562EBF6
+position_destroy(0, 0);
